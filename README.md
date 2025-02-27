@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SWProjectSpace
-- I am a Computer Science student at the University of Georgia. 
+- I'm a software engineer based in Atlanta, GA.
 - This profile serves as my digital portfolio hub for my ongoing side projects.
 
 <!---
